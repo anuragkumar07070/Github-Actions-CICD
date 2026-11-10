@@ -7,5 +7,5 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name:hello steps
+      - name : job steps
       run : echo"Hello World"
